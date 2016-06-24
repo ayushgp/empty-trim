@@ -1,0 +1,26 @@
+{
+  "name": "empty-trim",
+  "version": "1.0.0",
+  "description": "Remove empty subobjects from your objects({})",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushgp/empty-trim.git"
+  },
+  "keywords": [
+    "trim",
+    "object",
+    "empty",
+    "remove",
+    "delete"
+  ],
+  "author": "Ayush Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushgp/empty-trim/issues"
+  },
+  "homepage": "https://github.com/ayushgp/empty-trim#readme"
+}
